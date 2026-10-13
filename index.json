@@ -139,7 +139,15 @@
                 "imageFiller": "cover"
               }
             ]
-          },
+          }
+        ]
+      },
+      "title": "الرئيسية"
+    },
+    {
+      "data": {
+        "type": "pages",
+        "pages": [
           {
             "items": [
               {
@@ -211,6 +219,238 @@
           {
             "items": [
               {
+                "image": "https://www.google.com/s2/favicons?domain=www.hoopladigital.com&sz=128",
+                "title": "Hoopla",
+                "action": "link:https://www.hoopladigital.com",
+                "layout": "0,0,3,3",
+                "description": "أفلام ومسلسلات من مكتبتك",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.crackle.com&sz=128",
+                "title": "Crackle",
+                "action": "link:https://www.crackle.com",
+                "layout": "3,0,3,3",
+                "description": "أفلام ومسلسلات مجانية",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.peacocktv.com&sz=128",
+                "title": "Peacock",
+                "action": "link:https://www.peacocktv.com",
+                "layout": "6,0,3,3",
+                "description": "مسلسلات وأفلام NBC",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.max.com&sz=128",
+                "title": "Max",
+                "action": "link:https://www.max.com",
+                "layout": "9,0,3,3",
+                "description": "مسلسلات HBO وأفلام",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.disneyplus.com&sz=128",
+                "title": "Disney+",
+                "action": "link:https://www.disneyplus.com",
+                "layout": "0,3,3,3",
+                "description": "ديزني ومارفل وستار وورز",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.primevideo.com&sz=128",
+                "title": "Prime Video",
+                "action": "link:https://www.primevideo.com",
+                "layout": "3,3,3,3",
+                "description": "أفلام ومسلسلات أمازون",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=tv.apple.com&sz=128",
+                "title": "Apple TV+",
+                "action": "link:https://tv.apple.com",
+                "layout": "6,3,3,3",
+                "description": "مسلسلات وأفلام آبل",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.hulu.com&sz=128",
+                "title": "Hulu",
+                "action": "link:https://www.hulu.com",
+                "layout": "9,3,3,3",
+                "description": "مسلسلات وأفلام",
+                "imageFiller": "cover"
+              }
+            ]
+          },
+          {
+            "items": [
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.paramountplus.com&sz=128",
+                "title": "Paramount+",
+                "action": "link:https://www.paramountplus.com",
+                "layout": "0,0,3,3",
+                "description": "أفلام ومسلسلات باراماونت",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.fandangoathome.com&sz=128",
+                "title": "Fandango at Home",
+                "action": "link:https://www.fandangoathome.com",
+                "layout": "3,0,3,3",
+                "description": "شراء وإيجار الأفلام",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.viki.com&sz=128",
+                "title": "Viki",
+                "action": "link:https://www.viki.com",
+                "layout": "6,0,3,3",
+                "description": "دراما كورية وآسيوية",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.bbc.co.uk&sz=128",
+                "title": "BBC iPlayer",
+                "action": "link:https://www.bbc.co.uk/iplayer",
+                "layout": "9,0,3,3",
+                "description": "برامج ومسلسلات بي بي سي",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.itv.com&sz=128",
+                "title": "ITVX",
+                "action": "link:https://www.itv.com",
+                "layout": "0,3,3,3",
+                "description": "مسلسلات وبرامج بريطانية",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.channel4.com&sz=128",
+                "title": "Channel 4",
+                "action": "link:https://www.channel4.com",
+                "layout": "3,3,3,3",
+                "description": "مسلسلات وأفلام بريطانية",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.arte.tv&sz=128",
+                "title": "ARTE",
+                "action": "link:https://www.arte.tv",
+                "layout": "6,3,3,3",
+                "description": "أفلام ووثائقيات أوروبية",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=mubi.com&sz=128",
+                "title": "MUBI",
+                "action": "link:https://mubi.com",
+                "layout": "9,3,3,3",
+                "description": "أفلام فنية ومستقلة",
+                "imageFiller": "cover"
+              }
+            ]
+          },
+          {
+            "items": [
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.criterionchannel.com&sz=128",
+                "title": "Criterion Channel",
+                "action": "link:https://www.criterionchannel.com",
+                "layout": "0,0,3,3",
+                "description": "كلاسيكيات السينما",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.shudder.com&sz=128",
+                "title": "Shudder",
+                "action": "link:https://www.shudder.com",
+                "layout": "3,0,3,3",
+                "description": "أفلام رعب وإثارة",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=curiositystream.com&sz=128",
+                "title": "CuriosityStream",
+                "action": "link:https://curiositystream.com",
+                "layout": "6,0,3,3",
+                "description": "وثائقيات",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=vimeo.com&sz=128",
+                "title": "Vimeo",
+                "action": "link:https://vimeo.com",
+                "layout": "9,0,3,3",
+                "description": "أفلام قصيرة ومستقلة",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.dailymotion.com&sz=128",
+                "title": "Dailymotion",
+                "action": "link:https://www.dailymotion.com",
+                "layout": "0,3,3,3",
+                "description": "فيديوهات ومسلسلات",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.twitch.tv&sz=128",
+                "title": "Twitch",
+                "action": "link:https://www.twitch.tv",
+                "layout": "3,3,3,3",
+                "description": "بث مباشر",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=starzplay.com&sz=128",
+                "title": "Starzplay",
+                "action": "link:https://starzplay.com",
+                "layout": "6,3,3,3",
+                "description": "أفلام ومسلسلات عالمية وعربية",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.rotana.net&sz=128",
+                "title": "روتانا",
+                "action": "link:https://www.rotana.net",
+                "layout": "9,3,3,3",
+                "description": "أفلام وأغاني عربية",
+                "imageFiller": "cover"
+              }
+            ]
+          },
+          {
+            "items": [
+              {
+                "image": "https://www.google.com/s2/favicons?domain=rakuten.tv&sz=128",
+                "title": "Rakuten TV",
+                "action": "link:https://rakuten.tv",
+                "layout": "0,0,3,3",
+                "description": "أفلام ومسلسلات",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=128",
+                "title": "YouTube أفلام",
+                "action": "link:https://www.youtube.com/movies",
+                "layout": "3,0,3,3",
+                "description": "أفلام للإيجار والمجانية",
+                "imageFiller": "cover"
+              }
+            ]
+          }
+        ]
+      },
+      "title": "أفلام ومسلسلات"
+    },
+    {
+      "data": {
+        "type": "pages",
+        "pages": [
+          {
+            "items": [
+              {
                 "image": "https://www.google.com/s2/favicons?domain=www.aljazeera.net&sz=128",
                 "title": "الجزيرة",
                 "action": "link:https://www.aljazeera.net",
@@ -279,77 +519,739 @@
           {
             "items": [
               {
-                "image": "https://www.google.com/s2/favicons?domain=akwam.to&sz=128",
-                "title": "أكوام",
-                "action": "link:https://akwam.to",
+                "image": "https://www.google.com/s2/favicons?domain=www.alhurra.com&sz=128",
+                "title": "الحرة",
+                "action": "link:https://www.alhurra.com",
                 "layout": "0,0,3,3",
-                "description": "أفلام ومسلسلات عربية وأجنبية",
+                "description": "أخبار عربية",
                 "imageFiller": "cover"
               },
               {
-                "image": "https://www.google.com/s2/favicons?domain=arabseed.show&sz=128",
-                "title": "عرب سيد",
-                "action": "link:https://arabseed.show",
+                "image": "https://www.google.com/s2/favicons?domain=www.trtarabi.com&sz=128",
+                "title": "TRT عربي",
+                "action": "link:https://www.trtarabi.com",
                 "layout": "3,0,3,3",
-                "description": "عروض وأفلام ومسلسلات حصرية",
+                "description": "أخبار تركية بالعربي",
                 "imageFiller": "cover"
               },
               {
-                "image": "https://www.google.com/s2/favicons?domain=faselhd.club&sz=128",
-                "title": "فاصل إعلاني",
-                "action": "link:https://www.faselhd.club",
+                "image": "https://www.google.com/s2/favicons?domain=www.almayadeen.net&sz=128",
+                "title": "الميادين",
+                "action": "link:https://www.almayadeen.net",
                 "layout": "6,0,3,3",
-                "description": "أفلام ومسلسلات مترجمة بدقة عالية",
+                "description": "قناة الميادين",
                 "imageFiller": "cover"
               },
               {
-                "image": "https://www.google.com/s2/favicons?domain=wecima.show&sz=128",
-                "title": "وي سيما",
-                "action": "link:https://wecima.show",
+                "image": "https://www.google.com/s2/favicons?domain=www.alaraby.co.uk&sz=128",
+                "title": "العربي",
+                "action": "link:https://www.alaraby.co.uk",
                 "layout": "9,0,3,3",
-                "description": "موقع ماي سيما للأفلام والمسلسلات",
+                "description": "أخبار عربية",
                 "imageFiller": "cover"
               },
               {
-                "image": "https://www.google.com/s2/favicons?domain=braflix.video&sz=128",
-                "title": "Braflix",
-                "action": "link:https://www.braflix.video",
+                "image": "https://www.google.com/s2/favicons?domain=www.mc-doualiya.com&sz=128",
+                "title": "مونت كارلو",
+                "action": "link:https://www.mc-doualiya.com",
                 "layout": "0,3,3,3",
-                "description": "مشغل أفلام ومسلسلات عالمي سريع",
+                "description": "مونت كارلو الدولية",
                 "imageFiller": "cover"
               },
               {
-                "image": "https://www.google.com/s2/favicons?domain=vidsrc.to&sz=128",
-                "title": "VidSrc",
-                "action": "link:https://vidsrc.to",
+                "image": "https://www.google.com/s2/favicons?domain=arabic.cnn.com&sz=128",
+                "title": "CNN عربي",
+                "action": "link:https://arabic.cnn.com",
                 "layout": "3,3,3,3",
-                "description": "سيرفرات مشاهدة مباشرة عالمية",
+                "description": "أخبار عالمية بالعربي",
                 "imageFiller": "cover"
               },
               {
-                "image": "https://www.google.com/s2/favicons?domain=cartoon3rbi.net&sz=128",
-                "title": "كرتون عربي",
-                "action": "link:https://www.cartoon3rbi.net",
+                "image": "https://www.google.com/s2/favicons?domain=arabic.euronews.com&sz=128",
+                "title": "يورونيوز عربي",
+                "action": "link:https://arabic.euronews.com",
                 "layout": "6,3,3,3",
-                "description": "مسلسلات وأفلام كرتون مدبلجة",
+                "description": "أخبار أوروبية بالعربي",
                 "imageFiller": "cover"
               },
               {
-                "image": "https://www.google.com/s2/favicons?domain=world-television.org&sz=128",
-                "title": "World TV",
-                "action": "link:https://www.world-television.org",
+                "image": "https://www.google.com/s2/favicons?domain=www.aljazeera.com&sz=128",
+                "title": "الجزيرة EN",
+                "action": "link:https://www.aljazeera.com",
                 "layout": "9,3,3,3",
-                "description": "قنوات تلفزيونية عالمية وبث مباشر",
+                "description": "Al Jazeera English",
+                "imageFiller": "cover"
+              }
+            ]
+          },
+          {
+            "items": [
+              {
+                "image": "https://www.google.com/s2/favicons?domain=news.sky.com&sz=128",
+                "title": "Sky News",
+                "action": "link:https://news.sky.com",
+                "layout": "0,0,3,3",
+                "description": "أخبار بريطانية",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.bbc.com&sz=128",
+                "title": "BBC News",
+                "action": "link:https://www.bbc.com/news",
+                "layout": "3,0,3,3",
+                "description": "أخبار عالمية",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.cnn.com&sz=128",
+                "title": "CNN",
+                "action": "link:https://www.cnn.com",
+                "layout": "6,0,3,3",
+                "description": "أخبار أمريكية",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.reuters.com&sz=128",
+                "title": "Reuters",
+                "action": "link:https://www.reuters.com",
+                "layout": "9,0,3,3",
+                "description": "وكالة رويترز",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.bloomberg.com&sz=128",
+                "title": "Bloomberg",
+                "action": "link:https://www.bloomberg.com",
+                "layout": "0,3,3,3",
+                "description": "أخبار اقتصادية",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.kurdistan24.net&sz=128",
+                "title": "Kurdistan24",
+                "action": "link:https://www.kurdistan24.net",
+                "layout": "3,3,3,3",
+                "description": "أخبار كردستان",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.france24.com&sz=128",
+                "title": "France 24 EN",
+                "action": "link:https://www.france24.com/en",
+                "layout": "6,3,3,3",
+                "description": "France 24 English",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.dw.com&sz=128",
+                "title": "DW English",
+                "action": "link:https://www.dw.com/en",
+                "layout": "9,3,3,3",
+                "description": "Deutsche Welle",
+                "imageFiller": "cover"
+              }
+            ]
+          },
+          {
+            "items": [
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.euronews.com&sz=128",
+                "title": "Euronews",
+                "action": "link:https://www.euronews.com",
+                "layout": "0,0,3,3",
+                "description": "أخبار أوروبا",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.trtworld.com&sz=128",
+                "title": "TRT World",
+                "action": "link:https://www.trtworld.com",
+                "layout": "3,0,3,3",
+                "description": "أخبار تركيا والعالم",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www3.nhk.or.jp&sz=128",
+                "title": "NHK World",
+                "action": "link:https://www3.nhk.or.jp/nhkworld/en",
+                "layout": "6,0,3,3",
+                "description": "قناة يابانية إخبارية",
                 "imageFiller": "cover"
               }
             ]
           }
         ]
       },
-      "title": "الرئيسية"
+      "title": "قنوات وأخبار"
+    },
+    {
+      "data": {
+        "type": "pages",
+        "pages": [
+          {
+            "items": [
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.hidive.com&sz=128",
+                "title": "HIDIVE",
+                "action": "link:https://www.hidive.com",
+                "layout": "0,0,3,3",
+                "description": "أنمي مترجم",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.youtubekids.com&sz=128",
+                "title": "YouTube Kids",
+                "action": "link:https://www.youtubekids.com",
+                "layout": "3,0,3,3",
+                "description": "فيديوهات آمنة للأطفال",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.cartoonnetwork.com&sz=128",
+                "title": "Cartoon Network",
+                "action": "link:https://www.cartoonnetwork.com",
+                "layout": "6,0,3,3",
+                "description": "كرتون",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.nick.com&sz=128",
+                "title": "Nickelodeon",
+                "action": "link:https://www.nick.com",
+                "layout": "9,0,3,3",
+                "description": "كرتون نيكلوديون",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=pbskids.org&sz=128",
+                "title": "PBS Kids",
+                "action": "link:https://pbskids.org",
+                "layout": "0,3,3,3",
+                "description": "برامج تعليمية للأطفال",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.spacetoongo.com&sz=128",
+                "title": "سبيستون جو",
+                "action": "link:https://www.spacetoongo.com",
+                "layout": "3,3,3,3",
+                "description": "كرتون عربي",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.cartoonnetworkarabic.com&sz=128",
+                "title": "كرتون نتورك عربي",
+                "action": "link:https://www.cartoonnetworkarabic.com",
+                "layout": "6,3,3,3",
+                "description": "كرتون بالعربي",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=myanimelist.net&sz=128",
+                "title": "MyAnimeList",
+                "action": "link:https://myanimelist.net",
+                "layout": "9,3,3,3",
+                "description": "قاعدة بيانات الأنمي",
+                "imageFiller": "cover"
+              }
+            ]
+          },
+          {
+            "items": [
+              {
+                "image": "https://www.google.com/s2/favicons?domain=anilist.co&sz=128",
+                "title": "AniList",
+                "action": "link:https://anilist.co",
+                "layout": "0,0,3,3",
+                "description": "تتبع الأنمي والمانغا",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.animenewsnetwork.com&sz=128",
+                "title": "Anime News Network",
+                "action": "link:https://www.animenewsnetwork.com",
+                "layout": "3,0,3,3",
+                "description": "أخبار الأنمي",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.kidoodle.tv&sz=128",
+                "title": "Kidoodle.TV",
+                "action": "link:https://www.kidoodle.tv",
+                "layout": "6,0,3,3",
+                "description": "كرتون آمن ومجاني",
+                "imageFiller": "cover"
+              }
+            ]
+          }
+        ]
+      },
+      "title": "أنمي وكرتون"
+    },
+    {
+      "data": {
+        "type": "pages",
+        "pages": [
+          {
+            "items": [
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.beinsports.com&sz=128",
+                "title": "beIN Sports",
+                "action": "link:https://www.beinsports.com",
+                "layout": "0,0,3,3",
+                "description": "رياضة",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.espn.com&sz=128",
+                "title": "ESPN",
+                "action": "link:https://www.espn.com",
+                "layout": "3,0,3,3",
+                "description": "أخبار رياضية",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=plus.fifa.com&sz=128",
+                "title": "FIFA+",
+                "action": "link:https://plus.fifa.com",
+                "layout": "6,0,3,3",
+                "description": "كرة قدم ومباريات",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.uefa.com&sz=128",
+                "title": "UEFA",
+                "action": "link:https://www.uefa.com",
+                "layout": "9,0,3,3",
+                "description": "دوري الأبطال",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.dazn.com&sz=128",
+                "title": "DAZN",
+                "action": "link:https://www.dazn.com",
+                "layout": "0,3,3,3",
+                "description": "بث رياضي",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.formula1.com&sz=128",
+                "title": "Formula 1",
+                "action": "link:https://www.formula1.com",
+                "layout": "3,3,3,3",
+                "description": "سباقات فورمولا 1",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.nba.com&sz=128",
+                "title": "NBA",
+                "action": "link:https://www.nba.com",
+                "layout": "6,3,3,3",
+                "description": "كرة السلة",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.nfl.com&sz=128",
+                "title": "NFL",
+                "action": "link:https://www.nfl.com",
+                "layout": "9,3,3,3",
+                "description": "كرة القدم الأمريكية",
+                "imageFiller": "cover"
+              }
+            ]
+          },
+          {
+            "items": [
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.ufc.com&sz=128",
+                "title": "UFC",
+                "action": "link:https://www.ufc.com",
+                "layout": "0,0,3,3",
+                "description": "فنون قتالية",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=onefootball.com&sz=128",
+                "title": "OneFootball",
+                "action": "link:https://onefootball.com",
+                "layout": "3,0,3,3",
+                "description": "أخبار ونتائج",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.fotmob.com&sz=128",
+                "title": "FotMob",
+                "action": "link:https://www.fotmob.com",
+                "layout": "6,0,3,3",
+                "description": "نتائج مباشرة",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.sofascore.com&sz=128",
+                "title": "SofaScore",
+                "action": "link:https://www.sofascore.com",
+                "layout": "9,0,3,3",
+                "description": "نتائج وإحصائيات",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.kooora.com&sz=128",
+                "title": "كووورة",
+                "action": "link:https://www.kooora.com",
+                "layout": "0,3,3,3",
+                "description": "أخبار كرة القدم",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.goal.com&sz=128",
+                "title": "Goal",
+                "action": "link:https://www.goal.com",
+                "layout": "3,3,3,3",
+                "description": "أخبار الكرة",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.premierleague.com&sz=128",
+                "title": "Premier League",
+                "action": "link:https://www.premierleague.com",
+                "layout": "6,3,3,3",
+                "description": "الدوري الإنجليزي",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.laliga.com&sz=128",
+                "title": "LaLiga",
+                "action": "link:https://www.laliga.com",
+                "layout": "9,3,3,3",
+                "description": "الدوري الإسباني",
+                "imageFiller": "cover"
+              }
+            ]
+          },
+          {
+            "items": [
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.skysports.com&sz=128",
+                "title": "Sky Sports",
+                "action": "link:https://www.skysports.com",
+                "layout": "0,0,3,3",
+                "description": "أخبار رياضية",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.eurosport.com&sz=128",
+                "title": "Eurosport",
+                "action": "link:https://www.eurosport.com",
+                "layout": "3,0,3,3",
+                "description": "رياضات متنوعة",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.wwe.com&sz=128",
+                "title": "WWE",
+                "action": "link:https://www.wwe.com",
+                "layout": "6,0,3,3",
+                "description": "مصارعة",
+                "imageFiller": "cover"
+              }
+            ]
+          }
+        ]
+      },
+      "title": "رياضة"
+    },
+    {
+      "data": {
+        "type": "pages",
+        "pages": [
+          {
+            "items": [
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.imdb.com&sz=128",
+                "title": "IMDb",
+                "action": "link:https://www.imdb.com",
+                "layout": "0,0,3,3",
+                "description": "تقييمات الأفلام",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.themoviedb.org&sz=128",
+                "title": "TMDB",
+                "action": "link:https://www.themoviedb.org",
+                "layout": "3,0,3,3",
+                "description": "قاعدة بيانات الأفلام",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=letterboxd.com&sz=128",
+                "title": "Letterboxd",
+                "action": "link:https://letterboxd.com",
+                "layout": "6,0,3,3",
+                "description": "مراجعات الأفلام",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.rottentomatoes.com&sz=128",
+                "title": "Rotten Tomatoes",
+                "action": "link:https://www.rottentomatoes.com",
+                "layout": "9,0,3,3",
+                "description": "تقييمات النقاد",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.metacritic.com&sz=128",
+                "title": "Metacritic",
+                "action": "link:https://www.metacritic.com",
+                "layout": "0,3,3,3",
+                "description": "تقييمات",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=trakt.tv&sz=128",
+                "title": "Trakt",
+                "action": "link:https://trakt.tv",
+                "layout": "3,3,3,3",
+                "description": "تتبع مشاهداتك",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.justwatch.com&sz=128",
+                "title": "JustWatch",
+                "action": "link:https://www.justwatch.com",
+                "layout": "6,3,3,3",
+                "description": "وين تشاهد الفيلم",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.tvtime.com&sz=128",
+                "title": "TV Time",
+                "action": "link:https://www.tvtime.com",
+                "layout": "9,3,3,3",
+                "description": "تتبع المسلسلات",
+                "imageFiller": "cover"
+              }
+            ]
+          },
+          {
+            "items": [
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.fandango.com&sz=128",
+                "title": "Fandango",
+                "action": "link:https://www.fandango.com",
+                "layout": "0,0,3,3",
+                "description": "تذاكر السينما",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.opensubtitles.com&sz=128",
+                "title": "OpenSubtitles",
+                "action": "link:https://www.opensubtitles.com",
+                "layout": "3,0,3,3",
+                "description": "ترجمات",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=mydramalist.com&sz=128",
+                "title": "MyDramaList",
+                "action": "link:https://mydramalist.com",
+                "layout": "6,0,3,3",
+                "description": "الدراما الآسيوية",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=simkl.com&sz=128",
+                "title": "Simkl",
+                "action": "link:https://simkl.com",
+                "layout": "9,0,3,3",
+                "description": "تتبع الأفلام والأنمي",
+                "imageFiller": "cover"
+              }
+            ]
+          }
+        ]
+      },
+      "title": "تقييمات ومعلومات"
+    },
+    {
+      "data": {
+        "type": "pages",
+        "pages": [
+          {
+            "items": [
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.youtube.com&sz=128",
+                "title": "YouTube",
+                "action": "link:https://www.youtube.com",
+                "layout": "0,0,3,3",
+                "description": "فيديوهات",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=music.youtube.com&sz=128",
+                "title": "YouTube Music",
+                "action": "link:https://music.youtube.com",
+                "layout": "3,0,3,3",
+                "description": "موسيقى",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=open.spotify.com&sz=128",
+                "title": "Spotify",
+                "action": "link:https://open.spotify.com",
+                "layout": "6,0,3,3",
+                "description": "موسيقى وبودكاست",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=soundcloud.com&sz=128",
+                "title": "SoundCloud",
+                "action": "link:https://soundcloud.com",
+                "layout": "9,0,3,3",
+                "description": "موسيقى",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.anghami.com&sz=128",
+                "title": "أنغامي",
+                "action": "link:https://www.anghami.com",
+                "layout": "0,3,3,3",
+                "description": "موسيقى عربية",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.deezer.com&sz=128",
+                "title": "Deezer",
+                "action": "link:https://www.deezer.com",
+                "layout": "3,3,3,3",
+                "description": "موسيقى",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.ted.com&sz=128",
+                "title": "TED",
+                "action": "link:https://www.ted.com",
+                "layout": "6,3,3,3",
+                "description": "محاضرات",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.khanacademy.org&sz=128",
+                "title": "Khan Academy",
+                "action": "link:https://www.khanacademy.org",
+                "layout": "9,3,3,3",
+                "description": "تعليم مجاني",
+                "imageFiller": "cover"
+              }
+            ]
+          },
+          {
+            "items": [
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.coursera.org&sz=128",
+                "title": "Coursera",
+                "action": "link:https://www.coursera.org",
+                "layout": "0,0,3,3",
+                "description": "دورات",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.udemy.com&sz=128",
+                "title": "Udemy",
+                "action": "link:https://www.udemy.com",
+                "layout": "3,0,3,3",
+                "description": "دورات",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.edx.org&sz=128",
+                "title": "edX",
+                "action": "link:https://www.edx.org",
+                "layout": "6,0,3,3",
+                "description": "دورات جامعية",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.nationalgeographic.com&sz=128",
+                "title": "National Geographic",
+                "action": "link:https://www.nationalgeographic.com",
+                "layout": "9,0,3,3",
+                "description": "وثائقيات وطبيعة",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.google.com&sz=128",
+                "title": "Google",
+                "action": "link:https://www.google.com",
+                "layout": "0,3,3,3",
+                "description": "بحث",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=translate.google.com&sz=128",
+                "title": "Google Translate",
+                "action": "link:https://translate.google.com",
+                "layout": "3,3,3,3",
+                "description": "ترجمة",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.wikipedia.org&sz=128",
+                "title": "Wikipedia",
+                "action": "link:https://www.wikipedia.org",
+                "layout": "6,3,3,3",
+                "description": "موسوعة",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.speedtest.net&sz=128",
+                "title": "Speedtest",
+                "action": "link:https://www.speedtest.net",
+                "layout": "9,3,3,3",
+                "description": "فحص سرعة الإنترنت",
+                "imageFiller": "cover"
+              }
+            ]
+          },
+          {
+            "items": [
+              {
+                "image": "https://www.google.com/s2/favicons?domain=web.telegram.org&sz=128",
+                "title": "Telegram",
+                "action": "link:https://web.telegram.org",
+                "layout": "0,0,3,3",
+                "description": "تيليگرام",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=web.whatsapp.com&sz=128",
+                "title": "WhatsApp",
+                "action": "link:https://web.whatsapp.com",
+                "layout": "3,0,3,3",
+                "description": "واتساب",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.facebook.com&sz=128",
+                "title": "Facebook Watch",
+                "action": "link:https://www.facebook.com/watch",
+                "layout": "6,0,3,3",
+                "description": "فيديوهات فيسبوك",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://www.google.com/s2/favicons?domain=www.instagram.com&sz=128",
+                "title": "Instagram",
+                "action": "link:https://www.instagram.com",
+                "layout": "9,0,3,3",
+                "description": "انستغرام",
+                "imageFiller": "cover"
+              }
+            ]
+          }
+        ]
+      },
+      "title": "موسيقى وتعليم"
     }
   ],
   "headline": "لـولـة - IPTV"
 }
-
-
