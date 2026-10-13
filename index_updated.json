@@ -1,0 +1,273 @@
+{
+  "menu": [
+    {
+      "data": {
+        "type": "pages",
+        "pages": [
+          {
+            "items": [
+              {
+                "image": "https://zaun97.web.app/images/lola.png",
+                "title": "فيدا - ايفون",
+                "action": "link:https://vedaa-ios.web.app",
+                "layout": "0,0,3,3",
+                "description": "البث المباشر، الأفلام، والمسلسلات",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://zaun97.web.app/images/lola.png",
+                "title": "فيدا - أجهزة ضعيفة",
+                "action": "link:https://lola-iptv.web.app",
+                "layout": "3,0,3,3",
+                "description": "النسخة الخفيفة للأجهزة الضعيفة والتلفزيونات",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://zaun97.web.app/images/cinemana.png",
+                "title": "سينمانا",
+                "action": "link:https://cinemana.shabakaty.com/home",
+                "layout": "6,0,3,3",
+                "description": "أحدث الأفلام والمسلسلات",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://zaun97.web.app/images/vodu.png",
+                "title": "فودو تيفي",
+                "action": "link:https://tv.vodu.me",
+                "layout": "9,0,3,3",
+                "description": "مكتبة ضخمة من الأفلام والمسلسلات",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://zaun97.web.app/images/ott.png",
+                "title": "OTT Player",
+                "action": "link:https://widget.ottplayer.tv",
+                "layout": "0,3,3,3",
+                "description": "مشغل قنوات وقوائم التشغيل الذكي",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://zaun97.web.app/images/cinmabox.png",
+                "title": "سينما بوكس",
+                "action": "link:https://cinema.albox.co",
+                "layout": "3,3,3,3",
+                "description": "موقع سينما بوكس للأفلام والمسلسلات",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://zaun97.web.app/images/stremio.png",
+                "title": "Stremio Web",
+                "action": "link:https://web.stremio.com",
+                "layout": "6,3,3,3",
+                "description": "منصة بث وتنظيم المحتوى الترفيهي",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://zaun97.web.app/images/shashety.png",
+                "title": "شاشتي",
+                "action": "link:https://cinema.shashety.com",
+                "layout": "9,3,3,3",
+                "description": "منصة شاشتي للأفلام والمسلسلات",
+                "imageFiller": "cover"
+              }
+            ]
+          },
+          {
+            "items": [
+              {
+                "image": "https://nuvio.tv/assets/logo.png",
+                "title": "Nuvio",
+                "action": "link:https://web.nuvioapp.space",
+                "layout": "0,0,3,3",
+                "description": "مشاهدة الأفلام والمسلسلات",
+                "imageFiller": "cover"
+              }
+            ]
+          }
+        ]
+      },
+      "title": "الرئيسية"
+    },
+    {
+      "title": "أفلام ومسلسلات عربية ومحلية",
+      "data": {
+        "type": "pages",
+        "pages": [
+          {
+            "items": [
+              {
+                "image": "https://zaun97.web.app/images/cinemana.png",
+                "title": "سينمانا",
+                "action": "link:https://cinemana.shabakaty.com/home",
+                "layout": "0,0,3,3",
+                "description": "أحدث الأفلام والمسلسلات",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://zaun97.web.app/images/vodu.png",
+                "title": "فودو (Vodu)",
+                "action": "link:https://tv.vodu.me",
+                "layout": "3,0,3,3",
+                "description": "مكتبة أفلام ومسلسلات",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://zaun97.web.app/images/lola.png",
+                "title": "أكوام (Akoam)",
+                "action": "link:https://www.google.com/search?q=%D8%A3%D9%83%D9%88%D8%A7%D9%85%20%28Akoam%29",
+                "layout": "6,0,3,3",
+                "description": "افتح البحث للعثور على الرابط الحالي",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://zaun97.web.app/images/lola.png",
+                "title": "عرب سيد (Arabseed)",
+                "action": "link:https://www.google.com/search?q=%D8%B9%D8%B1%D8%A8%20%D8%B3%D9%8A%D8%AF%20%28Arabseed%29",
+                "layout": "9,0,3,3",
+                "description": "افتح البحث للعثور على الرابط الحالي",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://zaun97.web.app/images/lola.png",
+                "title": "ماي سيما / وي سيما",
+                "action": "link:https://www.google.com/search?q=%D9%85%D8%A7%D9%8A%20%D8%B3%D9%8A%D9%85%D8%A7%20/%20%D9%88%D9%8A%20%D8%B3%D9%8A%D9%85%D8%A7",
+                "layout": "0,3,3,3",
+                "description": "افتح البحث للعثور على الرابط الحالي",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://zaun97.web.app/images/lola.png",
+                "title": "فاصل إعلاني (FaselHD)",
+                "action": "link:https://www.google.com/search?q=%D9%81%D8%A7%D8%B5%D9%84%20%D8%A5%D8%B9%D9%84%D8%A7%D9%86%D9%8A%20%28FaselHD%29",
+                "layout": "3,3,3,3",
+                "description": "افتح البحث للعثور على الرابط الحالي",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://zaun97.web.app/images/lola.png",
+                "title": "موقع كرتون عربي",
+                "action": "link:https://www.google.com/search?q=%D9%85%D9%88%D9%82%D8%B9%20%D9%83%D8%B1%D8%AA%D9%88%D9%86%20%D8%B9%D8%B1%D8%A8%D9%8A",
+                "layout": "6,3,3,3",
+                "description": "افتح البحث للعثور على الموقع",
+                "imageFiller": "cover"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "title": "أفلام ومسلسلات عالمية",
+      "data": {
+        "type": "pages",
+        "pages": [
+          {
+            "items": [
+              {
+                "image": "https://zaun97.web.app/images/stremio.png",
+                "title": "Stremio Web",
+                "action": "link:https://web.stremio.com",
+                "layout": "0,0,3,3",
+                "description": "منصة لتنظيم ومشاهدة المحتوى",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://nuvio.tv/assets/logo.png",
+                "title": "Nuvio",
+                "action": "link:https://web.nuvioapp.space",
+                "layout": "3,0,3,3",
+                "description": "منصة أفلام ومسلسلات",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://zaun97.web.app/images/lola.png",
+                "title": "Braflix",
+                "action": "link:https://www.google.com/search?q=Braflix",
+                "layout": "6,0,3,3",
+                "description": "افتح البحث للعثور على الرابط الحالي",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://zaun97.web.app/images/lola.png",
+                "title": "VidSrc",
+                "action": "link:https://www.google.com/search?q=VidSrc",
+                "layout": "9,0,3,3",
+                "description": "افتح البحث للعثور على الرابط الحالي",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://zaun97.web.app/images/lola.png",
+                "title": "FlixHQ",
+                "action": "link:https://www.google.com/search?q=FlixHQ",
+                "layout": "0,3,3,3",
+                "description": "افتح البحث للعثور على الرابط الحالي",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://zaun97.web.app/images/cinmabox.png",
+                "title": "MovieBox",
+                "action": "link:https://www.google.com/search?q=MovieBox",
+                "layout": "3,3,3,3",
+                "description": "افتح البحث للعثور على الموقع أو نسخة الويب",
+                "imageFiller": "cover"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "title": "بث مباشر وقنوات وتلفزيون",
+      "data": {
+        "type": "pages",
+        "pages": [
+          {
+            "items": [
+              {
+                "image": "https://zaun97.web.app/images/lola.png",
+                "title": "تلفاز شبكتي (Shabakaty TV)",
+                "action": "link:https://www.google.com/search?q=%D8%AA%D9%84%D9%81%D8%A7%D8%B2%20%D8%B4%D8%A8%D9%83%D8%AA%D9%8A%20%28Shabakaty%20TV%29",
+                "layout": "0,0,3,3",
+                "description": "افتح البحث للعثور على الرابط الحالي",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://zaun97.web.app/images/ott.png",
+                "title": "OTT Player",
+                "action": "link:https://widget.ottplayer.tv",
+                "layout": "3,0,3,3",
+                "description": "مشغل قنوات وقوائم تشغيل",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://zaun97.web.app/images/lola.png",
+                "title": "Live NetTV",
+                "action": "link:https://www.google.com/search?q=Live%20NetTV",
+                "layout": "6,0,3,3",
+                "description": "افتح البحث للعثور على نسخة الويب أو الموقع",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://zaun97.web.app/images/lola.png",
+                "title": "Yacine TV Web",
+                "action": "link:https://www.google.com/search?q=Yacine%20TV%20Web",
+                "layout": "9,0,3,3",
+                "description": "افتح البحث للعثور على الرابط الحالي",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://zaun97.web.app/images/lola.png",
+                "title": "World TV Mobile",
+                "action": "link:https://www.google.com/search?q=World%20TV%20Mobile",
+                "layout": "0,3,3,3",
+                "description": "افتح البحث للعثور على الرابط الحالي",
+                "imageFiller": "cover"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "headline": "لـولـة - IPTV"
+}
