@@ -139,15 +139,7 @@
                 "imageFiller": "cover"
               }
             ]
-          }
-        ]
-      },
-      "title": "الرئيسية"
-    },
-    {
-      "data": {
-        "type": "pages",
-        "pages": [
+          },
           {
             "items": [
               {
@@ -439,15 +431,7 @@
                 "imageFiller": "cover"
               }
             ]
-          }
-        ]
-      },
-      "title": "أفلام ومسلسلات"
-    },
-    {
-      "data": {
-        "type": "pages",
-        "pages": [
+          },
           {
             "items": [
               {
@@ -679,15 +663,7 @@
                 "imageFiller": "cover"
               }
             ]
-          }
-        ]
-      },
-      "title": "قنوات وأخبار"
-    },
-    {
-      "data": {
-        "type": "pages",
-        "pages": [
+          },
           {
             "items": [
               {
@@ -783,15 +759,7 @@
                 "imageFiller": "cover"
               }
             ]
-          }
-        ]
-      },
-      "title": "أنمي وكرتون"
-    },
-    {
-      "data": {
-        "type": "pages",
-        "pages": [
+          },
           {
             "items": [
               {
@@ -955,15 +923,7 @@
                 "imageFiller": "cover"
               }
             ]
-          }
-        ]
-      },
-      "title": "رياضة"
-    },
-    {
-      "data": {
-        "type": "pages",
-        "pages": [
+          },
           {
             "items": [
               {
@@ -1067,15 +1027,7 @@
                 "imageFiller": "cover"
               }
             ]
-          }
-        ]
-      },
-      "title": "تقييمات ومعلومات"
-    },
-    {
-      "data": {
-        "type": "pages",
-        "pages": [
+          },
           {
             "items": [
               {
@@ -1250,7 +1202,7 @@
           }
         ]
       },
-      "title": "موسيقى وتعليم"
+      "title": "الرئيسية"
     }
   ],
   "headline": "لـولـة - IPTV"
