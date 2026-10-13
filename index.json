@@ -1,7 +1,7 @@
 {
-  "name": "Lola IPTV for Media Station X",
-  "version": "1.1.0",
-  "headline": "لـولـة - Media Station X",
+  "name": "Lola Media Station X",
+  "version": "1.4.0",
+  "headline": "لـولـة - بوابة المواقع العربية والويب وIPTV والرياضة",
   "menu": [
     {
       "label": "الرئيسية",
@@ -13,1563 +13,556 @@
             "items": [
               {
                 "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "فيدا - ايفون",
-                "text": "البث المباشر، الأفلام والمسلسلات",
+                "title": "فيدا - ايفون",
                 "action": "link:https://vedaa-ios.web.app",
                 "layout": "0,0,3,3",
+                "description": "البث المباشر، الأفلام، والمسلسلات",
                 "imageFiller": "cover"
               },
               {
                 "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "فيدا - أجهزة ضعيفة",
-                "text": "النسخة الخفيفة للأجهزة الضعيفة والتلفزيونات",
+                "title": "فيدا - أجهزة ضعيفة",
                 "action": "link:https://lola-iptv.web.app",
                 "layout": "3,0,3,3",
+                "description": "النسخة الخفيفة للأجهزة الضعيفة والتلفزيونات",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://zaun97.web.app/images/cinemana.png",
+                "title": "سينمانا",
+                "action": "link:https://cinemana.shabakaty.com/home",
+                "layout": "6,0,3,3",
+                "description": "أحدث الأفلام والمسلسلات",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://zaun97.web.app/images/vodu.png",
+                "title": "فودو تيفي",
+                "action": "link:https://tv.vodu.me",
+                "layout": "9,0,3,3",
+                "description": "مكتبة ضخمة من الأفلام والمسلسلات",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://zaun97.web.app/images/ott.png",
+                "title": "OTT Player",
+                "action": "link:https://widget.ottplayer.tv",
+                "layout": "0,3,3,3",
+                "description": "مشغل قنوات وقوائم التشغيل الذكي",
                 "imageFiller": "cover"
               },
               {
                 "image": "https://zaun97.web.app/images/cinmabox.png",
-                "headline": "سينما بوكس",
-                "text": "منصة سينما بوكس للأفلام والمسلسلات",
+                "title": "سينما بوكس",
                 "action": "link:https://cinema.albox.co",
-                "layout": "6,0,3,3",
+                "layout": "3,3,3,3",
+                "description": "موقع سينما بوكس للأفلام والمسلسلات",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://zaun97.web.app/images/stremio.png",
+                "title": "Stremio Web",
+                "action": "link:https://web.stremio.com",
+                "layout": "6,3,3,3",
+                "description": "منصة بث وتنظيم المحتوى الترفيهي",
                 "imageFiller": "cover"
               },
               {
                 "image": "https://zaun97.web.app/images/shashety.png",
-                "headline": "شاشتي",
-                "text": "منصة شاشتي للأفلام والمسلسلات",
+                "title": "شاشتي",
                 "action": "link:https://cinema.shashety.com",
-                "layout": "9,0,3,3",
+                "layout": "9,3,3,3",
+                "description": "منصة شاشتي للأفلام والمسلسلات",
                 "imageFiller": "cover"
               }
             ]
           }
         ]
-      },
-      "image": "https://zaun97.web.app/images/lola.png"
+      }
     },
     {
-      "label": "أفلام ومسلسلات عربية ومحلية",
+      "label": "أفلام ومسلسلات عربية",
       "data": {
         "type": "pages",
-        "headline": "أفلام ومسلسلات عربية ومحلية",
+        "headline": "مواقع أفلام ومسلسلات عربية",
         "pages": [
           {
             "items": [
               {
                 "image": "https://zaun97.web.app/images/cinemana.png",
-                "headline": "سينمانا",
-                "text": "أفلام ومسلسلات",
+                "title": "سينمانا",
                 "action": "link:https://cinemana.shabakaty.com/home",
                 "layout": "0,0,3,3",
+                "description": "أفلام ومسلسلات",
                 "imageFiller": "cover"
               },
               {
                 "image": "https://zaun97.web.app/images/vodu.png",
-                "headline": "فودو (Vodu)",
-                "text": "مكتبة أفلام ومسلسلات",
+                "title": "فودو تيفي",
                 "action": "link:https://tv.vodu.me",
                 "layout": "3,0,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "أكوام (Akoam)",
-                "text": "بحث عن الموقع الحالي",
-                "action": "link:https://www.google.com/search?q=أكوام+Akoam",
-                "layout": "6,0,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "عرب سيد (Arabseed)",
-                "text": "بحث عن الموقع الحالي",
-                "action": "link:https://www.google.com/search?q=عرب+سيد+Arabseed",
-                "layout": "9,0,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "ماي سيما / وي سيما",
-                "text": "بحث عن الموقع الحالي",
-                "action": "link:https://www.google.com/search?q=ماي+سيما+وي+سيما",
-                "layout": "0,3,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "فاصل إعلاني (FaselHD)",
-                "text": "بحث عن الموقع الحالي",
-                "action": "link:https://www.google.com/search?q=فاصل+إعلاني+FaselHD",
-                "layout": "3,3,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "كرتون عربي",
-                "text": "بحث عن الموقع الحالي",
-                "action": "link:https://www.google.com/search?q=موقع+كرتون+عربي",
-                "layout": "6,3,3,3",
-                "imageFiller": "cover"
-              }
-            ]
-          }
-        ]
-      },
-      "image": "https://zaun97.web.app/images/cinemana.png"
-    },
-    {
-      "label": "أفلام ومسلسلات عالمية",
-      "data": {
-        "type": "pages",
-        "headline": "أفلام ومسلسلات عالمية",
-        "pages": [
-          {
-            "items": [
-              {
-                "image": "https://zaun97.web.app/images/stremio.png",
-                "headline": "Stremio Web",
-                "text": "منصة تنظيم المحتوى",
-                "action": "link:https://web.stremio.com",
-                "layout": "0,0,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Nuvio",
-                "text": "منصة أفلام ومسلسلات",
-                "action": "link:https://web.nuvioapp.space",
-                "layout": "3,0,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Braflix",
-                "text": "بحث عن الموقع الحالي",
-                "action": "link:https://www.google.com/search?q=Braflix",
-                "layout": "6,0,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "VidSrc",
-                "text": "بحث عن الموقع الحالي",
-                "action": "link:https://www.google.com/search?q=VidSrc",
-                "layout": "9,0,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "FlixHQ",
-                "text": "بحث عن الموقع الحالي",
-                "action": "link:https://www.google.com/search?q=FlixHQ",
-                "layout": "0,3,3,3",
+                "description": "مكتبة أفلام ومسلسلات",
                 "imageFiller": "cover"
               },
               {
                 "image": "https://zaun97.web.app/images/cinmabox.png",
-                "headline": "MovieBox",
-                "text": "بحث عن الموقع الحالي",
-                "action": "link:https://www.google.com/search?q=MovieBox",
+                "title": "سينما بوكس",
+                "action": "link:https://cinema.albox.co",
+                "layout": "6,0,3,3",
+                "description": "أفلام ومسلسلات",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://zaun97.web.app/images/shashety.png",
+                "title": "شاشتي",
+                "action": "link:https://cinema.shashety.com",
+                "layout": "9,0,3,3",
+                "description": "أفلام ومسلسلات",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://zaun97.web.app/images/lola.png",
+                "title": "عرب سيد",
+                "action": "link:https://arbsd.com/",
+                "layout": "0,3,3,3",
+                "description": "موقع أفلام ومسلسلات عربية",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://zaun97.web.app/images/lola.png",
+                "title": "فاصل إعلاني",
+                "action": "link:https://www.faselhd.tech/",
                 "layout": "3,3,3,3",
+                "description": "أفلام ومسلسلات",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://zaun97.web.app/images/lola.png",
+                "title": "فاصل HD",
+                "action": "link:https://www.fasel-hd.co/",
+                "layout": "6,3,3,3",
+                "description": "موقع بديل؛ قد يتغير النطاق",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://zaun97.web.app/images/lola.png",
+                "title": "ماي سيما",
+                "action": "link:https://mycimma.com/",
+                "layout": "9,3,3,3",
+                "description": "أفلام ومسلسلات",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://zaun97.web.app/images/lola.png",
+                "title": "فشار",
+                "action": "link:https://fushaar.com/",
+                "layout": "0,6,3,3",
+                "description": "أفلام ومسلسلات",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://zaun97.web.app/images/lola.png",
+                "title": "أكوام",
+                "action": "link:https://akoam.net/",
+                "layout": "3,6,3,3",
+                "description": "أفلام ومسلسلات؛ تحقق من الرابط",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://zaun97.web.app/images/lola.png",
+                "title": "سينما فور يو",
+                "action": "link:https://cima4u.io/",
+                "layout": "6,6,3,3",
+                "description": "موقع أفلام؛ قد يتغير النطاق",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://zaun97.web.app/images/lola.png",
+                "title": "موفيزلاند",
+                "action": "link:https://movizland.ink/",
+                "layout": "9,6,3,3",
+                "description": "موقع أفلام ومسلسلات؛ تحقق من الرابط",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://zaun97.web.app/images/lola.png",
+                "title": "كرتون عربي - بحث",
+                "action": "link:https://www.google.com/search?q=موقع+كرتون+عربي+مشاهدة",
+                "layout": "0,9,3,3",
+                "description": "بحث عن مواقع كرتون عربي",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://zaun97.web.app/images/lola.png",
+                "title": "مسلسلات عربية - بحث",
+                "action": "link:https://www.google.com/search?q=مسلسلات+عربية+مشاهدة+اونلاين",
+                "layout": "3,9,3,3",
+                "description": "بحث عن مواقع المسلسلات العربية",
                 "imageFiller": "cover"
               }
             ]
           }
         ]
-      },
-      "image": "https://zaun97.web.app/images/stremio.png"
+      }
     },
     {
-      "label": "بث مباشر وقنوات وتلفزيون",
+      "label": "المتصفحات",
       "data": {
         "type": "pages",
-        "headline": "بث مباشر وقنوات وتلفزيون",
+        "headline": "متصفحات ومواقع ويب",
         "pages": [
           {
             "items": [
               {
                 "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "تلفاز شبكتي",
-                "text": "بحث عن الموقع الحالي",
-                "action": "link:https://www.google.com/search?q=تلفاز+شبكتي+Shabakaty+TV",
+                "title": "Brave",
+                "action": "link:https://brave.com/",
                 "layout": "0,0,3,3",
+                "description": "موقع متصفح Brave",
                 "imageFiller": "cover"
               },
+              {
+                "image": "https://zaun97.web.app/images/lola.png",
+                "title": "Firefox",
+                "action": "link:https://www.mozilla.org/firefox/",
+                "layout": "3,0,3,3",
+                "description": "موقع متصفح Firefox",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://zaun97.web.app/images/lola.png",
+                "title": "Opera",
+                "action": "link:https://www.opera.com/",
+                "layout": "6,0,3,3",
+                "description": "موقع متصفح Opera",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://zaun97.web.app/images/lola.png",
+                "title": "Microsoft Edge",
+                "action": "link:https://www.microsoft.com/edge",
+                "layout": "9,0,3,3",
+                "description": "موقع متصفح Edge",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://zaun97.web.app/images/lola.png",
+                "title": "Google Chrome",
+                "action": "link:https://www.google.com/chrome/",
+                "layout": "0,3,3,3",
+                "description": "موقع متصفح Chrome",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://zaun97.web.app/images/lola.png",
+                "title": "DuckDuckGo",
+                "action": "link:https://duckduckgo.com/",
+                "layout": "3,3,3,3",
+                "description": "محرك بحث وخصوصية",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://zaun97.web.app/images/lola.png",
+                "title": "Samsung Internet",
+                "action": "link:https://www.samsung.com/us/support/owners/app/samsung-internet/",
+                "layout": "6,3,3,3",
+                "description": "معلومات متصفح Samsung Internet",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://zaun97.web.app/images/lola.png",
+                "title": "Puffin Browser",
+                "action": "link:https://www.puffin.com/",
+                "layout": "9,3,3,3",
+                "description": "موقع متصفح Puffin",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://zaun97.web.app/images/lola.png",
+                "title": "TV Bro",
+                "action": "link:https://github.com/truefedex/tv-bro",
+                "layout": "0,6,3,3",
+                "description": "متصفح لأجهزة التلفزيون",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://zaun97.web.app/images/lola.png",
+                "title": "BrowseHere",
+                "action": "link:https://www.browsehere.net/",
+                "layout": "3,6,3,3",
+                "description": "متصفح للتلفزيون",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://zaun97.web.app/images/lola.png",
+                "title": "Google Search",
+                "action": "link:https://www.google.com/",
+                "layout": "6,6,3,3",
+                "description": "بحث على الإنترنت",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://zaun97.web.app/images/lola.png",
+                "title": "Internet Archive",
+                "action": "link:https://archive.org/",
+                "layout": "9,6,3,3",
+                "description": "أرشيف ومكتبة رقمية",
+                "imageFiller": "cover"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "label": "مشغلات IPTV",
+      "data": {
+        "type": "pages",
+        "headline": "مشغلات IPTV وقوائم القنوات",
+        "pages": [
+          {
+            "items": [
               {
                 "image": "https://zaun97.web.app/images/ott.png",
-                "headline": "OTT Player",
-                "text": "مشغل قنوات وقوائم تشغيل",
-                "action": "link:https://widget.ottplayer.tv",
+                "title": "OTT Player",
+                "action": "link:https://widget.ottplayer.tv/",
+                "layout": "0,0,3,3",
+                "description": "مشغل قوائم IPTV؛ يحتاج قائمة قنوات",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://zaun97.web.app/images/lola.png",
+                "title": "VLC Media Player",
+                "action": "link:https://www.videolan.org/vlc/",
                 "layout": "3,0,3,3",
+                "description": "مشغل وسائط يدعم قوائم وروابط متوافقة",
                 "imageFiller": "cover"
               },
               {
                 "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Live NetTV",
-                "text": "بحث عن الموقع الحالي",
-                "action": "link:https://www.google.com/search?q=Live+NetTV",
+                "title": "Kodi",
+                "action": "link:https://kodi.tv/",
                 "layout": "6,0,3,3",
+                "description": "مركز وسائط؛ المحتوى يعتمد على الإضافات والمصادر",
                 "imageFiller": "cover"
               },
               {
                 "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Yacine TV Web",
-                "text": "بحث عن الموقع الحالي",
-                "action": "link:https://www.google.com/search?q=Yacine+TV+Web",
+                "title": "IPTV Smarters",
+                "action": "link:https://www.iptvsmarters.com/",
                 "layout": "9,0,3,3",
+                "description": "مشغل؛ لا يوفر اشتراك قنوات بحد ذاته",
                 "imageFiller": "cover"
               },
               {
                 "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "World TV Mobile",
-                "text": "بحث عن الموقع الحالي",
-                "action": "link:https://www.google.com/search?q=World+TV+Mobile",
+                "title": "TiviMate",
+                "action": "link:https://tivimate.com/",
                 "layout": "0,3,3,3",
+                "description": "مشغل IPTV لأجهزة Android TV",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://zaun97.web.app/images/lola.png",
+                "title": "GSE Smart IPTV",
+                "action": "link:https://gsesmartiptv.com/",
+                "layout": "3,3,3,3",
+                "description": "مشغل قوائم IPTV",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://zaun97.web.app/images/lola.png",
+                "title": "IPTVnator",
+                "action": "link:https://github.com/4gray/iptvnator",
+                "layout": "6,3,3,3",
+                "description": "مشغل قوائم IPTV مفتوح المصدر",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://zaun97.web.app/images/lola.png",
+                "title": "Televizo",
+                "action": "link:https://televizo.net/",
+                "layout": "9,3,3,3",
+                "description": "مشغل IPTV؛ يحتاج مصدر قنوات",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://zaun97.web.app/images/lola.png",
+                "title": "Perfect Player",
+                "action": "link:https://www.perfect-player.com/",
+                "layout": "0,6,3,3",
+                "description": "مشغل قوائم IPTV",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://zaun97.web.app/images/lola.png",
+                "title": "Sparkle TV",
+                "action": "link:https://sparkle-tv.github.io/",
+                "layout": "3,6,3,3",
+                "description": "مشغل IPTV لأجهزة التلفزيون المدعومة",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://zaun97.web.app/images/lola.png",
+                "title": "M3U Player Search",
+                "action": "link:https://www.google.com/search?q=M3U+IPTV+player",
+                "layout": "6,6,3,3",
+                "description": "بحث عن مشغلات قوائم M3U",
+                "imageFiller": "cover"
+              },
+              {
+                "image": "https://zaun97.web.app/images/lola.png",
+                "title": "M3U4U",
+                "action": "link:https://m3u4u.com/",
+                "layout": "9,6,3,3",
+                "description": "أداة إدارة قوائم M3U",
                 "imageFiller": "cover"
               }
             ]
           }
         ]
-      },
-      "image": "https://zaun97.web.app/images/ott.png"
+      }
     },
     {
-      "label": "منصات عربية وخليجية",
+      "label": "المباريات والرياضة",
       "data": {
         "type": "pages",
-        "headline": "منصات عربية وخليجية",
+        "headline": "مواقع المباريات والنتائج الرياضية",
         "pages": [
           {
             "items": [
               {
                 "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "شاهد",
-                "text": "منصة عربية للمسلسلات والأفلام",
-                "action": "link:https://shahid.mbc.net",
+                "title": "يلا شوت",
+                "action": "link:https://www.yallashoot.com/",
                 "layout": "0,0,3,3",
+                "description": "بوابة مباريات؛ التوفر والنطاق قد يتغيران",
                 "imageFiller": "cover"
               },
               {
                 "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "WATCH IT",
-                "text": "محتوى عربي ومصري",
-                "action": "link:https://watchit.com",
+                "title": "يلا شوت لايف",
+                "action": "link:https://www.yallashoot.live/",
                 "layout": "3,0,3,3",
+                "description": "بوابة مباريات؛ الرابط قد لا يعمل دائماً",
                 "imageFiller": "cover"
               },
               {
                 "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "OSN+",
-                "text": "أفلام ومسلسلات",
-                "action": "link:https://osnplus.com",
+                "title": "كورة",
+                "action": "link:https://www.kooora.com/",
                 "layout": "6,0,3,3",
+                "description": "أخبار ومواعيد ونتائج المباريات",
                 "imageFiller": "cover"
               },
               {
                 "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "STARZPLAY",
-                "text": "أفلام ومسلسلات",
-                "action": "link:https://starzplay.com",
+                "title": "365Scores عربي",
+                "action": "link:https://www.365scores.com/ar",
                 "layout": "9,0,3,3",
+                "description": "نتائج ومواعيد وتغطية رياضية",
                 "imageFiller": "cover"
               },
               {
                 "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "TOD",
-                "text": "رياضة وترفيه",
-                "action": "link:https://www.tod.tv",
+                "title": "SofaScore",
+                "action": "link:https://www.sofascore.com/",
                 "layout": "0,3,3,3",
+                "description": "نتائج وإحصائيات مباشرة",
                 "imageFiller": "cover"
               },
               {
                 "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Jawwy TV",
-                "text": "مسلسلات وقنوات",
-                "action": "link:https://www.jawwy.tv",
+                "title": "FotMob",
+                "action": "link:https://www.fotmob.com/",
                 "layout": "3,3,3,3",
+                "description": "نتائج وأخبار كرة القدم",
                 "imageFiller": "cover"
               },
               {
                 "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Dubai+",
-                "text": "محتوى دبي",
-                "action": "link:https://www.dubaiplus.net",
+                "title": "LiveScore",
+                "action": "link:https://www.livescore.com/",
                 "layout": "6,3,3,3",
+                "description": "نتائج مباشرة",
                 "imageFiller": "cover"
               },
               {
                 "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Awaan",
-                "text": "برامج وقنوات إماراتية",
-                "action": "link:https://www.awaan.ae",
+                "title": "يلا كورة",
+                "action": "link:https://www.yallakora.com/",
                 "layout": "9,3,3,3",
+                "description": "أخبار ومواعيد ونتائج",
                 "imageFiller": "cover"
               },
               {
                 "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "ADtv",
-                "text": "قنوات وبرامج أبوظبي",
-                "action": "link:https://adtv.ae",
+                "title": "كووورة لايف - بحث",
+                "action": "link:https://www.google.com/search?q=كوورة+لايف+مباريات+اليوم",
                 "layout": "0,6,3,3",
+                "description": "بحث ويب عن صفحات المباريات",
                 "imageFiller": "cover"
               },
               {
                 "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Roya TV",
-                "text": "برامج ومسلسلات أردنية",
-                "action": "link:https://roya.tv",
+                "title": "مباريات اليوم - بحث",
+                "action": "link:https://www.google.com/search?q=مباريات+اليوم+بث+مباشر+كرة+القدم",
                 "layout": "3,6,3,3",
+                "description": "بحث ويب عن مباريات اليوم",
                 "imageFiller": "cover"
               },
               {
                 "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Alsumaria",
-                "text": "برامج وقنوات عراقية",
-                "action": "link:https://www.alsumaria.tv",
+                "title": "البث الرياضي العربي - بحث",
+                "action": "link:https://www.google.com/search?q=مواقع+بث+مباريات+عربية",
                 "layout": "6,6,3,3",
+                "description": "بحث ويب عن مواقع بث رياضي",
                 "imageFiller": "cover"
               },
               {
                 "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Al Sharqiya",
-                "text": "قناة وبرامج عراقية",
-                "action": "link:https://www.alsharqiya.com",
+                "title": "beIN Sports عربي",
+                "action": "link:https://www.beinsports.com/ar-mena",
                 "layout": "9,6,3,3",
+                "description": "موقع رياضي؛ بعض البث يحتاج اشتراكاً",
                 "imageFiller": "cover"
               },
               {
                 "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "MBC",
-                "text": "قنوات وبرامج",
-                "action": "link:https://www.mbc.net",
+                "title": "قنوات الكأس",
+                "action": "link:https://www.alkass.net/",
                 "layout": "0,9,3,3",
+                "description": "أخبار وتغطية رياضية",
                 "imageFiller": "cover"
               },
               {
                 "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Rotana",
-                "text": "قنوات وأفلام عربية",
-                "action": "link:https://rotana.net",
+                "title": "AD Sports",
+                "action": "link:https://www.adsports.tv/",
                 "layout": "3,9,3,3",
+                "description": "موقع رياضي وبث حسب التوفر",
                 "imageFiller": "cover"
               },
               {
                 "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Al Jazeera",
-                "text": "أخبار وبرامج وثائقية",
-                "action": "link:https://www.aljazeera.net",
+                "title": "FIFA+",
+                "action": "link:https://www.plus.fifa.com/",
                 "layout": "6,9,3,3",
+                "description": "محتوى وبث متاح حسب البلد",
                 "imageFiller": "cover"
               },
               {
                 "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "الجزيرة 360",
-                "text": "محتوى مرئي عربي",
-                "action": "link:https://www.aljazeera360.com",
+                "title": "UEFA.tv",
+                "action": "link:https://www.uefa.tv/",
                 "layout": "9,9,3,3",
-                "imageFiller": "cover"
-              }
-            ]
-          },
-          {
-            "items": [
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "قناة العربية",
-                "text": "أخبار وبرامج",
-                "action": "link:https://www.alarabiya.net",
-                "layout": "0,0,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Sky News Arabia",
-                "text": "أخبار عربية",
-                "action": "link:https://www.skynewsarabia.com",
-                "layout": "3,0,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "France 24 Arabic",
-                "text": "أخبار بالعربية",
-                "action": "link:https://www.france24.com/ar",
-                "layout": "6,0,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "DW عربية",
-                "text": "تقارير وبرامج",
-                "action": "link:https://www.dw.com/ar",
-                "layout": "9,0,3,3",
+                "description": "محتوى وبث متاح حسب البلد",
                 "imageFiller": "cover"
               }
             ]
           }
         ]
-      },
-      "image": "https://zaun97.web.app/images/lola.png"
-    },
-    {
-      "label": "منصات عالمية للأفلام والمسلسلات",
-      "data": {
-        "type": "pages",
-        "headline": "منصات عالمية للأفلام والمسلسلات",
-        "pages": [
-          {
-            "items": [
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Netflix",
-                "text": "أفلام ومسلسلات باشتراك",
-                "action": "link:https://www.netflix.com",
-                "layout": "0,0,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Prime Video",
-                "text": "أفلام ومسلسلات",
-                "action": "link:https://www.primevideo.com",
-                "layout": "3,0,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Disney+",
-                "text": "أفلام ومسلسلات",
-                "action": "link:https://www.disneyplus.com",
-                "layout": "6,0,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Apple TV+",
-                "text": "أعمال أصلية",
-                "action": "link:https://tv.apple.com",
-                "layout": "9,0,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Max",
-                "text": "أفلام ومسلسلات",
-                "action": "link:https://www.max.com",
-                "layout": "0,3,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Hulu",
-                "text": "مسلسلات وترفيه",
-                "action": "link:https://www.hulu.com",
-                "layout": "3,3,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Paramount+",
-                "text": "أفلام ومسلسلات",
-                "action": "link:https://www.paramountplus.com",
-                "layout": "6,3,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Peacock",
-                "text": "أفلام وبرامج",
-                "action": "link:https://www.peacocktv.com",
-                "layout": "9,3,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "MGM+",
-                "text": "أفلام ومسلسلات",
-                "action": "link:https://www.mgmplus.com",
-                "layout": "0,6,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "MUBI",
-                "text": "سينما مختارة",
-                "action": "link:https://mubi.com",
-                "layout": "3,6,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Curiosity Stream",
-                "text": "وثائقيات",
-                "action": "link:https://curiositystream.com",
-                "layout": "6,6,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Kanopy",
-                "text": "سينما ووثائقيات عبر الجهات المشاركة",
-                "action": "link:https://www.kanopy.com",
-                "layout": "9,6,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Hoopla",
-                "text": "أفلام وكتب رقمية عبر المكتبات",
-                "action": "link:https://www.hoopladigital.com",
-                "layout": "0,9,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Fandango at Home",
-                "text": "شراء وتأجير الأفلام",
-                "action": "link:https://www.vudu.com",
-                "layout": "3,9,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "YouTube Movies",
-                "text": "أفلام حسب التوفر",
-                "action": "link:https://www.youtube.com/movies",
-                "layout": "6,9,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Google TV",
-                "text": "اكتشاف وشراء الأفلام",
-                "action": "link:https://tv.google",
-                "layout": "9,9,3,3",
-                "imageFiller": "cover"
-              }
-            ]
-          },
-          {
-            "items": [
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Rakuten TV",
-                "text": "أفلام وقنوات مجانية حسب البلد",
-                "action": "link:https://www.rakuten.tv",
-                "layout": "0,0,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Plex",
-                "text": "أفلام وقنوات مجانية ومكتبة شخصية",
-                "action": "link:https://www.plex.tv",
-                "layout": "3,0,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Tubi",
-                "text": "أفلام مجانية بإعلانات حسب البلد",
-                "action": "link:https://tubitv.com",
-                "layout": "6,0,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Pluto TV",
-                "text": "قنوات وأفلام مجانية حسب البلد",
-                "action": "link:https://pluto.tv",
-                "layout": "9,0,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "The Roku Channel",
-                "text": "قنوات وأفلام حسب البلد",
-                "action": "link:https://therokuchannel.roku.com",
-                "layout": "0,3,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Xumo Play",
-                "text": "قنوات مجانية حسب البلد",
-                "action": "link:https://play.xumo.com",
-                "layout": "3,3,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Sling Freestream",
-                "text": "قنوات مجانية حسب البلد",
-                "action": "link:https://www.sling.com/freestream",
-                "layout": "6,3,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Filmzie",
-                "text": "أفلام مجانية بإعلانات",
-                "action": "link:https://filmzie.com",
-                "layout": "9,3,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Fawesome",
-                "text": "أفلام وقنوات مجانية",
-                "action": "link:https://fawesome.tv",
-                "layout": "0,6,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Red Bull TV",
-                "text": "رياضة وأفلام وثائقية",
-                "action": "link:https://www.redbull.com/int-en/tv",
-                "layout": "3,6,3,3",
-                "imageFiller": "cover"
-              }
-            ]
-          }
-        ]
-      },
-      "image": "https://zaun97.web.app/images/lola.png"
-    },
-    {
-      "label": "بث مباشر وأخبار وقنوات رسمية",
-      "data": {
-        "type": "pages",
-        "headline": "بث مباشر وأخبار وقنوات رسمية",
-        "pages": [
-          {
-            "items": [
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "BBC iPlayer",
-                "text": "برامج BBC حسب المنطقة",
-                "action": "link:https://www.bbc.co.uk/iplayer",
-                "layout": "0,0,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "ITVX",
-                "text": "بث وبرامج بريطانية",
-                "action": "link:https://www.itv.com",
-                "layout": "3,0,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Channel 4",
-                "text": "برامج وأفلام حسب المنطقة",
-                "action": "link:https://www.channel4.com",
-                "layout": "6,0,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "My5",
-                "text": "برامج تلفزيونية",
-                "action": "link:https://www.channel5.com",
-                "layout": "9,0,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "CBC Gem",
-                "text": "بث وبرامج كندية",
-                "action": "link:https://gem.cbc.ca",
-                "layout": "0,3,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "CTV",
-                "text": "برامج وقنوات كندية",
-                "action": "link:https://www.ctv.ca",
-                "layout": "3,3,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "ABC iview",
-                "text": "برامج أسترالية",
-                "action": "link:https://iview.abc.net.au",
-                "layout": "6,3,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "SBS On Demand",
-                "text": "أفلام وبرامج",
-                "action": "link:https://www.sbs.com.au/ondemand",
-                "layout": "9,3,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "NHK World",
-                "text": "بث وأخبار دولية",
-                "action": "link:https://www3.nhk.or.jp/nhkworld",
-                "layout": "0,6,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "DW Live",
-                "text": "بث مباشر",
-                "action": "link:https://www.dw.com/en/live-tv/s-100825",
-                "layout": "3,6,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "France 24 Live",
-                "text": "بث إخباري",
-                "action": "link:https://www.france24.com/en/live",
-                "layout": "6,6,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Al Jazeera Live",
-                "text": "بث مباشر",
-                "action": "link:https://www.aljazeera.com/live",
-                "layout": "9,6,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Sky News Live",
-                "text": "أخبار مباشرة",
-                "action": "link:https://news.sky.com/watch-live",
-                "layout": "0,9,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "NASA+",
-                "text": "برامج وبث علمي",
-                "action": "link:https://plus.nasa.gov",
-                "layout": "3,9,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "UN Web TV",
-                "text": "جلسات وفعاليات الأمم المتحدة",
-                "action": "link:https://webtv.un.org",
-                "layout": "6,9,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Bloomberg TV",
-                "text": "أخبار اقتصادية",
-                "action": "link:https://www.bloomberg.com/live",
-                "layout": "9,9,3,3",
-                "imageFiller": "cover"
-              }
-            ]
-          },
-          {
-            "items": [
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "CNBC",
-                "text": "أخبار اقتصادية",
-                "action": "link:https://www.cnbc.com/live-tv",
-                "layout": "0,0,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Euronews",
-                "text": "أخبار وبث حسب التوفر",
-                "action": "link:https://www.euronews.com",
-                "layout": "3,0,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "TRT World",
-                "text": "أخبار دولية",
-                "action": "link:https://www.trtworld.com",
-                "layout": "6,0,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "CGTN",
-                "text": "بث وبرامج",
-                "action": "link:https://www.cgtn.com/tv",
-                "layout": "9,0,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Al Arabiya Live",
-                "text": "بث إخباري حسب التوفر",
-                "action": "link:https://www.alarabiya.net/live-stream",
-                "layout": "0,3,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Al Hadath",
-                "text": "أخبار وبث",
-                "action": "link:https://www.alhadath.net",
-                "layout": "3,3,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Asharq News",
-                "text": "أخبار وبرامج",
-                "action": "link:https://asharq.com",
-                "layout": "6,3,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "France 24 Arabic Live",
-                "text": "بث بالعربية",
-                "action": "link:https://www.france24.com/ar/live",
-                "layout": "9,3,3,3",
-                "imageFiller": "cover"
-              }
-            ]
-          }
-        ]
-      },
-      "image": "https://zaun97.web.app/images/lola.png"
-    },
-    {
-      "label": "أنمي ورسوم متحركة",
-      "data": {
-        "type": "pages",
-        "headline": "أنمي ورسوم متحركة",
-        "pages": [
-          {
-            "items": [
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Crunchyroll",
-                "text": "أنمي رسمي",
-                "action": "link:https://www.crunchyroll.com",
-                "layout": "0,0,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Netflix Anime",
-                "text": "قسم الأنمي على نتفلكس",
-                "action": "link:https://www.netflix.com/browse/genre/7424",
-                "layout": "3,0,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Disney Junior",
-                "text": "محتوى أطفال حسب المنطقة",
-                "action": "link:https://disneynow.com",
-                "layout": "6,0,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Cartoon Network",
-                "text": "رسوم متحركة وألعاب",
-                "action": "link:https://www.cartoonnetwork.com",
-                "layout": "9,0,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "PBS Kids",
-                "text": "برامج أطفال تعليمية",
-                "action": "link:https://pbskids.org",
-                "layout": "0,3,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "CBeebies",
-                "text": "برامج أطفال",
-                "action": "link:https://www.bbc.co.uk/cbeebies",
-                "layout": "3,3,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "BBC Kids",
-                "text": "برامج أطفال حسب المنطقة",
-                "action": "link:https://www.bbc.co.uk/iplayer/categories/kids",
-                "layout": "6,3,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Nickelodeon",
-                "text": "رسوم وبرامج",
-                "action": "link:https://www.nick.com",
-                "layout": "9,3,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Nick Jr.",
-                "text": "محتوى أطفال",
-                "action": "link:https://www.nickjr.com",
-                "layout": "0,6,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Pokémon TV",
-                "text": "حلقات Pokémon حسب التوفر",
-                "action": "link:https://www.pokemon.com/us/pokemon-episodes",
-                "layout": "3,6,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "LEGO TV",
-                "text": "فيديوهات LEGO الرسمية",
-                "action": "link:https://www.lego.com",
-                "layout": "6,6,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Anime-Planet",
-                "text": "دليل أنمي ومانغا",
-                "action": "link:https://www.anime-planet.com",
-                "layout": "9,6,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "MyAnimeList",
-                "text": "قاعدة بيانات أنمي",
-                "action": "link:https://myanimelist.net",
-                "layout": "0,9,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Tubi Anime",
-                "text": "أنمي مجاني حسب البلد",
-                "action": "link:https://tubitv.com/category/anime",
-                "layout": "3,9,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "YouTube Kids",
-                "text": "فيديوهات مناسبة للأطفال",
-                "action": "link:https://www.youtubekids.com",
-                "layout": "6,9,3,3",
-                "imageFiller": "cover"
-              }
-            ]
-          }
-        ]
-      },
-      "image": "https://zaun97.web.app/images/lola.png"
-    },
-    {
-      "label": "وثائقيات وتعليم ومعرفة",
-      "data": {
-        "type": "pages",
-        "headline": "وثائقيات وتعليم ومعرفة",
-        "pages": [
-          {
-            "items": [
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "TED",
-                "text": "محاضرات وأفكار",
-                "action": "link:https://www.ted.com/talks",
-                "layout": "0,0,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "TED-Ed",
-                "text": "دروس مرئية",
-                "action": "link:https://ed.ted.com",
-                "layout": "3,0,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Khan Academy",
-                "text": "تعليم مجاني",
-                "action": "link:https://www.khanacademy.org",
-                "layout": "6,0,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Coursera",
-                "text": "دورات تعليمية",
-                "action": "link:https://www.coursera.org",
-                "layout": "9,0,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "edX",
-                "text": "دورات جامعية",
-                "action": "link:https://www.edx.org",
-                "layout": "0,3,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "National Geographic",
-                "text": "علوم وطبيعة",
-                "action": "link:https://www.nationalgeographic.com",
-                "layout": "3,3,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "PBS",
-                "text": "وثائقيات وبرامج",
-                "action": "link:https://www.pbs.org",
-                "layout": "6,3,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "BBC Earth",
-                "text": "الطبيعة والحياة البرية",
-                "action": "link:https://www.bbcearth.com",
-                "layout": "9,3,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Smithsonian Channel",
-                "text": "وثائقيات حسب التوفر",
-                "action": "link:https://www.smithsonianchannel.com",
-                "layout": "0,6,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "ARTE",
-                "text": "ثقافة ووثائقيات",
-                "action": "link:https://www.arte.tv",
-                "layout": "3,6,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "DW Documentary",
-                "text": "وثائقيات",
-                "action": "link:https://www.dw.com/en/documentary/s-3610",
-                "layout": "6,6,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Al Jazeera Documentary",
-                "text": "أفلام وثائقية عربية",
-                "action": "link:https://doc.aljazeera.net",
-                "layout": "9,6,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "OpenLearn",
-                "text": "مواد تعليمية مجانية",
-                "action": "link:https://www.open.edu/openlearn",
-                "layout": "0,9,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "MIT OpenCourseWare",
-                "text": "محاضرات ومواد جامعية",
-                "action": "link:https://ocw.mit.edu",
-                "layout": "3,9,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Internet Archive",
-                "text": "أفلام ومواد أرشيفية",
-                "action": "link:https://archive.org/details/movies",
-                "layout": "6,9,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "TEDx",
-                "text": "محاضرات TEDx",
-                "action": "link:https://www.ted.com/about/programs-initiatives/tedx-program",
-                "layout": "9,9,3,3",
-                "imageFiller": "cover"
-              }
-            ]
-          }
-        ]
-      },
-      "image": "https://zaun97.web.app/images/lola.png"
-    },
-    {
-      "label": "فيديو ومشاركة ومكتبات مرئية",
-      "data": {
-        "type": "pages",
-        "headline": "فيديو ومشاركة ومكتبات مرئية",
-        "pages": [
-          {
-            "items": [
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "YouTube",
-                "text": "فيديوهات وقنوات",
-                "action": "link:https://www.youtube.com",
-                "layout": "0,0,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Vimeo",
-                "text": "أفلام وفيديو إبداعي",
-                "action": "link:https://vimeo.com",
-                "layout": "3,0,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Dailymotion",
-                "text": "فيديوهات وقنوات",
-                "action": "link:https://www.dailymotion.com",
-                "layout": "6,0,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "TikTok",
-                "text": "مقاطع قصيرة",
-                "action": "link:https://www.tiktok.com",
-                "layout": "9,0,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Facebook Watch",
-                "text": "فيديوهات على فيسبوك",
-                "action": "link:https://www.facebook.com/watch",
-                "layout": "0,3,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Instagram Reels",
-                "text": "مقاطع قصيرة",
-                "action": "link:https://www.instagram.com",
-                "layout": "3,3,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Twitch",
-                "text": "بث مباشر وألعاب",
-                "action": "link:https://www.twitch.tv",
-                "layout": "6,3,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Kick",
-                "text": "بث مباشر",
-                "action": "link:https://kick.com",
-                "layout": "9,3,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Rumble",
-                "text": "منصة فيديو",
-                "action": "link:https://rumble.com",
-                "layout": "0,6,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Odysee",
-                "text": "فيديو ومحتوى مستقل",
-                "action": "link:https://odysee.com",
-                "layout": "3,6,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "PeerTube",
-                "text": "شبكة فيديو لامركزية",
-                "action": "link:https://joinpeertube.org",
-                "layout": "6,6,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "DTube",
-                "text": "منصة فيديو",
-                "action": "link:https://d.tube",
-                "layout": "9,6,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Bilibili",
-                "text": "فيديو وأنمي حسب المنطقة",
-                "action": "link:https://www.bilibili.com",
-                "layout": "0,9,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Veoh",
-                "text": "مكتبة فيديو",
-                "action": "link:https://www.veoh.com",
-                "layout": "3,9,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "NASA Video",
-                "text": "فيديوهات وصور ناسا",
-                "action": "link:https://images.nasa.gov",
-                "layout": "6,9,3,3",
-                "imageFiller": "cover"
-              }
-            ]
-          }
-        ]
-      },
-      "image": "https://zaun97.web.app/images/lola.png"
-    },
-    {
-      "label": "موسيقى وراديو وبودكاست",
-      "data": {
-        "type": "pages",
-        "headline": "موسيقى وراديو وبودكاست",
-        "pages": [
-          {
-            "items": [
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Spotify",
-                "text": "موسيقى وبودكاست",
-                "action": "link:https://open.spotify.com",
-                "layout": "0,0,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Apple Music",
-                "text": "موسيقى",
-                "action": "link:https://music.apple.com",
-                "layout": "3,0,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "YouTube Music",
-                "text": "موسيقى وفيديو",
-                "action": "link:https://music.youtube.com",
-                "layout": "6,0,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "SoundCloud",
-                "text": "موسيقى مستقلة",
-                "action": "link:https://soundcloud.com",
-                "layout": "9,0,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Deezer",
-                "text": "موسيقى",
-                "action": "link:https://www.deezer.com",
-                "layout": "0,3,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "TIDAL",
-                "text": "موسيقى عالية الجودة",
-                "action": "link:https://tidal.com",
-                "layout": "3,3,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Anghami",
-                "text": "موسيقى عربية وعالمية",
-                "action": "link:https://www.anghami.com",
-                "layout": "6,3,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Amazon Music",
-                "text": "موسيقى وبودكاست",
-                "action": "link:https://music.amazon.com",
-                "layout": "9,3,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Bandcamp",
-                "text": "موسيقى الفنانين",
-                "action": "link:https://bandcamp.com",
-                "layout": "0,6,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Audiomack",
-                "text": "موسيقى",
-                "action": "link:https://audiomack.com",
-                "layout": "3,6,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "TuneIn",
-                "text": "راديو مباشر",
-                "action": "link:https://tunein.com",
-                "layout": "6,6,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Radio Garden",
-                "text": "محطات راديو حول العالم",
-                "action": "link:https://radio.garden",
-                "layout": "9,6,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "iHeartRadio",
-                "text": "راديو وبودكاست",
-                "action": "link:https://www.iheart.com",
-                "layout": "0,9,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "BBC Sounds",
-                "text": "راديو وبودكاست حسب المنطقة",
-                "action": "link:https://www.bbc.co.uk/sounds",
-                "layout": "3,9,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Pocket Casts",
-                "text": "بودكاست",
-                "action": "link:https://pocketcasts.com",
-                "layout": "6,9,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Podbean",
-                "text": "بودكاست",
-                "action": "link:https://www.podbean.com",
-                "layout": "9,9,3,3",
-                "imageFiller": "cover"
-              }
-            ]
-          },
-          {
-            "items": [
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Castbox",
-                "text": "بودكاست",
-                "action": "link:https://castbox.fm",
-                "layout": "0,0,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Mixcloud",
-                "text": "برامج إذاعية ومكسات",
-                "action": "link:https://www.mixcloud.com",
-                "layout": "3,0,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Radio Public",
-                "text": "بودكاست",
-                "action": "link:https://radiopublic.com",
-                "layout": "6,0,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "NPR",
-                "text": "برامج صوتية وأخبار",
-                "action": "link:https://www.npr.org",
-                "layout": "9,0,3,3",
-                "imageFiller": "cover"
-              }
-            ]
-          }
-        ]
-      },
-      "image": "https://zaun97.web.app/images/lola.png"
-    },
-    {
-      "label": "أدوات تشغيل وتنظيم الوسائط",
-      "data": {
-        "type": "pages",
-        "headline": "أدوات تشغيل وتنظيم الوسائط",
-        "pages": [
-          {
-            "items": [
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Stremio Web",
-                "text": "تنظيم ومشاهدة المحتوى حسب الإضافات",
-                "action": "link:https://web.stremio.com",
-                "layout": "0,0,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Jellyfin",
-                "text": "خادم مكتبة وسائط شخصية",
-                "action": "link:https://jellyfin.org",
-                "layout": "3,0,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Emby",
-                "text": "إدارة مكتبة الوسائط الشخصية",
-                "action": "link:https://emby.media",
-                "layout": "6,0,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Kodi",
-                "text": "مركز وسائط",
-                "action": "link:https://kodi.tv",
-                "layout": "9,0,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "VLC",
-                "text": "مشغل فيديو وصوت",
-                "action": "link:https://www.videolan.org/vlc",
-                "layout": "0,3,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Plex Web",
-                "text": "مشغل وإدارة مكتبة الوسائط",
-                "action": "link:https://app.plex.tv",
-                "layout": "3,3,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "OTT Player",
-                "text": "مشغل قوائم IPTV التي تملكها",
-                "action": "link:https://widget.ottplayer.tv",
-                "layout": "6,3,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "IPTV-org",
-                "text": "دليل قنوات عامة وروابط رسمية حيث تتوفر",
-                "action": "link:https://iptv-org.github.io",
-                "layout": "9,3,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Kodi Wiki",
-                "text": "دليل إعداد Kodi",
-                "action": "link:https://kodi.wiki",
-                "layout": "0,6,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Subtitle Edit",
-                "text": "أداة ترجمة وتحرير الترجمة",
-                "action": "link:https://www.nikse.dk/subtitleedit",
-                "layout": "3,6,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "OpenSubtitles",
-                "text": "بحث عن ملفات ترجمة",
-                "action": "link:https://www.opensubtitles.com",
-                "layout": "6,6,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "JustWatch",
-                "text": "البحث عن مكان توفر الأفلام قانونياً",
-                "action": "link:https://www.justwatch.com",
-                "layout": "9,6,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "IMDb",
-                "text": "معلومات الأفلام والمسلسلات",
-                "action": "link:https://www.imdb.com",
-                "layout": "0,9,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "Rotten Tomatoes",
-                "text": "تقييمات ومعلومات سينمائية",
-                "action": "link:https://www.rottentomatoes.com",
-                "layout": "3,9,3,3",
-                "imageFiller": "cover"
-              },
-              {
-                "image": "https://zaun97.web.app/images/lola.png",
-                "headline": "TMDB",
-                "text": "قاعدة بيانات الأفلام والمسلسلات",
-                "action": "link:https://www.themoviedb.org",
-                "layout": "6,9,3,3",
-                "imageFiller": "cover"
-              }
-            ]
-          }
-        ]
-      },
-      "image": "https://zaun97.web.app/images/lola.png"
+      }
     }
   ]
 }
